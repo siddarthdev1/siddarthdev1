@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Siddartha N<br>💻 CS Engineering Student <br><br>🚀 Skills & Knowledge  <br>- Python | SQL  <br>- Machine Learning <br><br>📌 Currently Learning  <br>- Real-world ML Projects  <br>- Advanced Python  <br> 
+Hi 👋, I'm Sid <br>💻 CS Engineering Student <br><br>🚀 Skills & Knowledge  <br>- Python | SQL  <br>- Machine Learning <br><br>📌 Currently Learning  <br>- Real-world ML Projects  <br>- Advanced Python  <br> 
 
 
 ## 🌐 Socials:
